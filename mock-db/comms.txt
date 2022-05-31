@@ -1,0 +1,14 @@
+To run database
+json-server --watch db.json --port 2000
+
+To run react app
+first build the app using 
+npm run build:webpack
+on dist folder run:
+http-server . --cors
+
+to run angular app
+npm run serve:single-spa:angular-app
+
+And the main app
+npm start

@@ -1,0 +1,99 @@
+{
+    "users": [
+      {
+        "id": 0,
+        "address": "465 New York",
+        "name": "Jackie",
+        "lastName": "Chan",
+        "email": "drunkenmaster@jchangod.com"
+        
+      },
+      {
+        "id": 1,
+        "address": "465 Detroit",
+        "name": "Ip",
+        "lastName": "Man",
+        "email": "itrainedbrucelee@unbeatable.com"
+        
+      },
+      {
+        "id": 2,
+        "address": "465 San Andreas",
+        "name": "Bruce",
+        "lastName": "Lee",
+        "email": "getmeayellowsuit@ultimate-warrior.com"
+        
+      },
+      {
+        "id": 3,
+        "address": "465 Vice City",
+        "name": "Jet",
+        "lastName": "Li",
+        "email": "wushuchampion@iamtheone.com"
+        
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Apples",
+        "price": 1,
+        "description": "This is a product description for Apples!"
+      },
+      {
+        "id": 2,
+        "name": "Pears",
+        "price": 1,
+        "description": "This is a product description for Pears!"
+      },
+      {
+        "id": 3,
+        "name": "Oranges",
+        "price": 2,
+        "description": "This is a product description for Oranges!"
+      },
+      {
+        "id": 4,
+        "name": "Bananas",
+        "price": 2,
+        "description": "This is a product description for Bananas!"
+      },
+      {
+        "id": 5,
+        "name": "Kiwi",
+        "price": 2,
+        "description": "This is a product description for Kiwi!"
+      },
+      {
+        "id": 6,
+        "name": "Mango",
+        "price": 2,
+        "description": "This is a product description for Mango!"
+      },
+      {
+        "id": 7,
+        "name": "Dragonfruit",
+        "price": 2,
+        "description": "This is a product description for Dragonfruit!"
+      },
+      {
+        "id": 8,
+        "name": "Durian",
+        "price": 2,
+        "description": "This is a product description for Durian!"
+      },
+      {
+        "id": 9,
+        "name": "Guacamole",
+        "price": 2,
+        "description": "This is a product description for Guacamole!"
+      },
+      {
+        "id": 9,
+        "name": "Strawberries",
+        "price": 1,
+        "description": "This is a product description for Strawberries!"
+      }
+
+    ]
+  }

@@ -1,0 +1,28 @@
+/*Color palette: https://coolors.co/ffffff-00171f-003459-007ea7-00a8e8*/
+
+.react-section {
+    background-color: #003459;
+    color: #ffffff;
+    padding: 2em;
+}
+
+.users-btn {
+    padding: 1em;
+    color: #003459;
+    background-color: #00A8E8;
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.users-btn:hover {
+    background-color:#00171F;
+}
+
+ul li {
+    list-style: none;
+}
+
+.user-pill {
+    margin-bottom: .5em;
+}
